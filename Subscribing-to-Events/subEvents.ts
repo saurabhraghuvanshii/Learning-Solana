@@ -6,7 +6,7 @@ const rpcSubscriptions = createSolanaRpcSubscriptions("ws://localhost:8900");
 
 const LAMPORTS_PER_SOL = lamports(1_000_000_000n);
 
-const wallet = address("2BDQMnxcnaCGHqGTr32aEg6HFfs9p7NeZZQrCNHUrurX");
+const wallet = address("");
 
 const abortController = new AbortController();
 
