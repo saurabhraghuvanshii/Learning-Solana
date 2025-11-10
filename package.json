@@ -13,6 +13,7 @@
     "@solana/kit": "^5.0.0",
     "@solana/web3.js": "^1.98.4",
     "bip39": "^3.1.0",
+    "micro-ed25519-hdkey": "^0.1.2",
     "tsx": "^4.20.6",
     "typescript": "^5.9.3"
   }
